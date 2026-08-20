@@ -51,6 +51,3 @@ I really like:
 ## **Contact me →**
   Email: giripushkar155@gmail.com
   Instagram: @pushkar.auuraconn
-
-* **Email:** [giripushkar155@gmail.com](mailto:giripushkar155@gmail.com)
-* **Instagram:** @pushkar.auuraconn
