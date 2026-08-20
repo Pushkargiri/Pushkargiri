@@ -20,8 +20,6 @@
 * **C++**
 * **Java**
 * **JavaScript**
-* **C#**
-* **Rust**
 
 ## **Web →**
 
@@ -32,8 +30,6 @@
 ## **Tools and other stuff I am familiar with →**
 
 * **Linux (Fedora)**
-* **Bash**
-* **SQL**
 * **Git**
 
 ## **ABOUT MY STARTUP**
@@ -54,7 +50,6 @@ I really like:
 
 ## **Contact me →**
   Email: giripushkar155@gmail.com
-  
   Instagram: @pushkar.auuraconn
 
 * **Email:** [giripushkar155@gmail.com](mailto:giripushkar155@gmail.com)
