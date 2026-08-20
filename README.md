@@ -1,16 +1,61 @@
-## Hi there 👋
+# 🐘HI! 
 
-<!--
-**Pushkargiri/Pushkargiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello! I am Pushkar! Founder of @Auuraconn (still trying to build it).**
 
-Here are some ideas to get you started:
+## **About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **My name is Pushkar Giri**, I live in India.
+* Currently I am a **Student Studying at Sharda University**.
+
+## **Projects →**
+
+* I have built worked with multiple **Businesses** helping them building websites.
+* Currently working on my own **Startup Named @Auuraconn** as I mentioned earlier
+* You can find more project below!
+
+## **Languages I've worked with →**
+
+* **Python**
+* **C**
+* **C++**
+* **Java**
+* **JavaScript**
+* **C#**
+* **Rust**
+
+## **Web →**
+
+* **HTML**
+* **CSS**
+* **JavaScript**
+
+## **Tools and other stuff I am familiar with →**
+
+* **Linux (Fedora)**
+* **Bash**
+* **SQL**
+* **Git**
+
+## **ABOUT MY STARTUP**
+
+**Auuraconn** is an AI company building World's first AI that can interact, adapt and completely understand its surroundings with the goal of creating AGI that has a deeper understanding of its surroundings.
+
+## **Other than that...**
+
+I really like:
+
+* **Astronomy**
+* **Rockets**
+* **Guns**
+* **Games**
+* **Drones**
+* **AI (ofc)**
+* **MAINLY COMPUTERS — COMPUTERS ARE JUST AWESOME!**
+
+## **Contact me →**
+  Email: giripushkar155@gmail.com
+  
+  Instagram: @pushkar.auuraconn
+
+* **Email:** [giripushkar155@gmail.com](mailto:giripushkar155@gmail.com)
+* **Instagram:** @pushkar.auuraconn
