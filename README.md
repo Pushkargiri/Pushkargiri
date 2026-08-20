@@ -5,7 +5,7 @@
 ## **About me**
 
 * **My name is Pushkar Giri**, I live in India.
-* Currently I am a **Student Studying at Sharda University**.
+* Currently I am a **Student Studying at Sharda University** studying **Computer science AI/ML.**
 
 ## **Projects →**
 
