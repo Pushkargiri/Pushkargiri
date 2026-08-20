@@ -9,7 +9,7 @@
 
 ## **Projects →**
 
-* I have built worked with multiple **Businesses** helping them building websites.
+* I have worked with multiple **Businesses** helping them building websites.
 * Currently working on my own **Startup Named @Auuraconn** as I mentioned earlier
 * You can find more project below!
 
