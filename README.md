@@ -1,4 +1,4 @@
-# 🐘HI! 
+# HI! 
 
 **Hello! I am Pushkar! Founder of @Auuraconn (still trying to build it).**
 
